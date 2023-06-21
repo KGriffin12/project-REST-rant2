@@ -1,5 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
 h1 {
     text-align: center;
-    color: cornflowerblue;
+    color: rgb(251, 115, 233);
   }
   
+  img{
+    height: 800px;
+    width: 1000px;
+    border-radius: 8px;
+  }
+
+  button{
+    height: 25px;
+    width: 85px;
+    background-color: rgb(251, 115, 233);
+    border-radius: 10px;
+  }
+
